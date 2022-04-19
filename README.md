@@ -3,4 +3,4 @@ Projeto desenvolvido no curso do professor [@gustavoguanabara](https://github.co
 
 Visite o página desenvolvida no link abaixo.
 
-*[Página projeto Android](https://andremaluche.github.io/projeto-android/).
+* [Página projeto Android](https://andremaluche.github.io/projeto-android/).
